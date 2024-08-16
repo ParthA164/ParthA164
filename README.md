@@ -19,11 +19,9 @@ Let me tell you a bit about myself 🐱‍💻
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/parth-adlakha-240401216/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
-  <a href="your-instagram-url"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"></a>
-  <a href="[your-leetcode-url](https://leetcode.com/u/Parth_Adlakha/)"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode"></a>
-
- 
+  <a href="https://www.linkedin.com/in/parth-adlakha-240401216/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" alt="LinkedIn"></a>
+  <a href="your-instagram-url"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" width="40" alt="Instagram"></a>
+  <a href="https://leetcode.com/u/Parth_Adlakha/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" width="40" alt="LeetCode"></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
