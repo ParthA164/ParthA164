@@ -6,8 +6,6 @@
 
 ## I am an aspiring software engineer
 
-[Click here]() to see my Resume
-
 Let me tell you a bit about myself 🐱‍💻
 
 - 🧑‍💻 I’m currently working on Backend Development and Machine Learning.
@@ -20,16 +18,17 @@ Let me tell you a bit about myself 🐱‍💻
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/parth-adlakha-240401216/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" alt="LinkedIn"></a>
-  <a href="your-instagram-url"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" width="40" alt="Instagram"></a>
+  <a href="[your-instagram-url](https://www.instagram.com/parth_adlakha/)"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" width="40" alt="Instagram"></a>
   <a href="https://leetcode.com/u/Parth_Adlakha/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" width="40" alt="LeetCode"></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap">
+
   <img src="https://img.shields.io/badge/-C-00599C?logo=C&logoColor=white&style=for-the-badge" alt="C">
   <img src="https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=white&style=for-the-badge" alt="C++">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge" alt="CSS3">
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge" alt="HTML5">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript">
   <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" alt="SQL Server">
