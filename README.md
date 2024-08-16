@@ -6,11 +6,6 @@
 
 ## I am an aspiring software engineer
 
-<p align="left">
-  <a href="[your-linkedin-url](https://www.linkedin.com/in/parth-adlakha-240401216/)"><img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn"></a>
-  <a href="mailto:parthmris92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red" alt="Gmail"></a>
-</p>
-
 [Click here]() to see my Resume
 
 Let me tell you a bit about myself 🐱‍💻
@@ -24,11 +19,11 @@ Let me tell you a bit about myself 🐱‍💻
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-  <a href="your-linkedin-url"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
-  <a href="your-facebook-url"><img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook"></a>
+  <a href="https://www.linkedin.com/in/parth-adlakha-240401216/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
   <a href="your-instagram-url"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"></a>
-  <a href="your-hackerrank-url"><img src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank"></a>
-  <a href="your-codeforces-url"><img src="https://img.shields.io/badge/-Codeforces-FFCE00?logo=codeforces&logoColor=white&style=for-the-badge" alt="Codeforces"></a>
+  <a href="[your-leetcode-url](https://leetcode.com/u/Parth_Adlakha/)"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode"></a>
+
+ 
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
@@ -37,16 +32,15 @@ Let me tell you a bit about myself 🐱‍💻
   <img src="https://img.shields.io/badge/-C-00599C?logo=C&logoColor=white&style=for-the-badge" alt="C">
   <img src="https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=white&style=for-the-badge" alt="C++">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge" alt="CSS3">
-  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge" alt="HTML5">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-MATLAB-0076A8?logo=matlab&logoColor=white&style=for-the-badge" alt="MATLAB">
   <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" alt="SQL Server">
-  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge" alt="Photoshop">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
-  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask">
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express">
+
 </p>
 
 <div align="center">
@@ -56,10 +50,5 @@ Let me tell you a bit about myself 🐱‍💻
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthA164&theme=algolia" alt="GitHub Streak">
-</p>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Parth-Adlakha/Parth-Adlakha/main/coding.gif" alt="Coding Image">
 </p>
 
