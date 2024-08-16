@@ -14,9 +14,8 @@ An UnderGrad student studying Computer Science.
 
 Let me tell you a bit about myself 🐱‍💻
 
-- 🧑‍💻 I’m currently working on Next.js
+- 🧑‍💻 I’m currently working on Backend Development and Machine Learning.
 - 🧠 I’m currently learning DSA & Web Designing
-- 💡 I’m Looking for help with Django
 - 🤔 Ask me about anything, I am happy to help
 - ⚡ Pronouns: He/Him
 - 🎹 Fun fact: I play piano and love to read novels
