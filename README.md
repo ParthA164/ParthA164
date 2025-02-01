@@ -15,6 +15,10 @@ Let me tell you a bit about myself 🐱‍💻
 - 👯 **I’m looking to collaborate on:** any great idea!
 - 📫 **How to reach me:** [parthmris92@gmail.com](mailto:parthmris92@gmail.com)
 
+   <div>
+    <img src="https://github.com/ParthA164/Logos/blob/main/animation.gif" alt="GIF" width="400">
+  </div>
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/parth-adlakha-240401216/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" alt="LinkedIn"></a>
